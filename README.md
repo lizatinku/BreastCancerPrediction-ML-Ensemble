@@ -2,8 +2,7 @@
 ##Comparing 10 ML different models to find the best one breast cancer.
 
 1) Logistic Regression
-   result from notebook:
-   <img width="545" alt="Screenshot 2023-12-11 at 1 07 25 PM" src="https://github.com/lizatinku/BreastCancerPrediction-ML-Ensemble/assets/123905707/8d9cf0b5-bc72-483f-b949-67d88d8c2bc7">
+   result from notebook: <img width="545" alt="Screenshot 2023-12-11 at 1 07 25 PM" src="https://github.com/lizatinku/BreastCancerPrediction-ML-Ensemble/assets/123905707/8d9cf0b5-bc72-483f-b949-67d88d8c2bc7">
 
 2) KNN (K-Nearest Neighbors)
    result from notebook:
