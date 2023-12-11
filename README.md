@@ -13,7 +13,7 @@
    result from notebook:
    <img width="518" alt="Screenshot 2023-12-11 at 1 08 17 PM" src="https://github.com/lizatinku/BreastCancerPrediction-ML-Ensemble/assets/123905707/d2a31925-a0d3-4a7a-93e3-a35b507633fb">
 
-4)Decision Tree Classifier
+4) Decision Tree Classifier
    result from notebook:
    <img width="525" alt="Screenshot 2023-12-11 at 1 12 24 PM" src="https://github.com/lizatinku/BreastCancerPrediction-ML-Ensemble/assets/123905707/77d6e903-1fc1-4057-9891-558502c8124c">
 
