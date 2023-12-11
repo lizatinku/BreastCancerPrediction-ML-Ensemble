@@ -1,5 +1,5 @@
 # BreastCancerPrediction-ML-Ensemble
-Predicting breast cancer with 10 ML different models
+##Comparing 10 ML different models to find the best one breast cancer.
 
 1) Logistic Regression
    description:
